@@ -2,7 +2,7 @@
 This is my first project at the **University of Sydney**.  
 It is a simple Python program that helps users build healthy habits by tracking daily actions such as drinking water, exercising, and sleeping enough hours.
 
-The project includes both a **terminal version** and a **simple GUI version** built with Tkinter.  
+The project includes both a terminal version (main.py) and a simple GUI version (gui_main.py) built with Tkinter.  
 It allows users to:
 - Record their daily habits
 - Earn points and feedback
