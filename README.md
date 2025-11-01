@@ -1,2 +1,12 @@
 # Health-Tracker
-Users can record simple actions such as drinking water, doing exercise, or sleeping enough. The system gives points and feedback each day, and if all habits are completed, it gives a badge to encourage progress. It can also show your daily streak, weekly average, and even a leaderboard to see how you compare with others.
+This is my first project at the **University of Sydney**.  
+It is a simple Python program that helps users build healthy habits by tracking daily actions such as drinking water, exercising, and sleeping enough hours.
+
+The project includes both a **terminal version** and a **simple GUI version** built with Tkinter.  
+It allows users to:
+- Record their daily habits
+- Earn points and feedback
+- Track streaks and weekly averages
+- View leaderboards and compare progress
+
+This project is part of my learning journey in Python programming and my first experience building a complete interactive program at the University of Sydney.
